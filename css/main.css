@@ -1,0 +1,53 @@
+main {
+  padding-top: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding: 100px 20px 0 20px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.masthead{
+  background: orange;
+  padding: 20px 0;
+}
+
+.masthead-content{
+  margin-left: 20px;
+}
+
+.masthead h1, .masthead p{
+  width: 940px;
+  padding: 5px 0;
+  margin: 0 auto;
+}
+
+.card-div{
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  overflow: hidden;
+}
+
+.card-div h2, .card-div p{
+  margin-left: 15px;
+}
+
+.card-div h2{
+  margin-bottom: 10px;
+}
+
+.card-div p{
+  margin-top: 0;
+  font-size: 1.2em;
+  margin-bottom: 30px;
+}
+
+.crop{
+  overflow:hidden;
+}
+
+.crop img{
+margin: 0 0 -25% 0;
+}
